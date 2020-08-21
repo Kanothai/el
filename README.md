@@ -3,7 +3,7 @@ e-learning
 
 # Conda Setup
 
----sh
+***sh
 $conda create -n envel python3.6
 $conda activate envel
 $conda deactivate
